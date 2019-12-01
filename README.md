@@ -4,6 +4,7 @@
 This repository contains
 - bw_to_color_gui.exe
 - Inference_images_dataset folder
+- Output-Screenshots folder
 
 ### Requirements
 - Python 3.7.4
@@ -26,7 +27,7 @@ pts_in_hull.npy [here](https://github.com/richzhang/colorization/blob/master/res
 #### Step 3 - Run ```bw_to_color_gui.py```
 
 ### Screenshots
-
+![bw_to_color_gui](https://github.com/MayurSatav/Colorization-of-image-using-opencv-and-deep-learning/blob/master/Output-Screenshots/Screenshot.png)
 
 #### References
 [Richard Zhang](https://github.com/richzhang/colorization)
