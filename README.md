@@ -1,9 +1,16 @@
-# Colorization-of-image-using-opencv-and-deep-learning
+# Image-Colorizatio-With-GUI
 
 ### Overview
 This repository contains
 - bw_to_color_gui.exe
 - Inference_images_dataset folder
+
+### Requirements
+- Python 3.7.4
+- Tkinter
+- PIL
+- Numpy
+- Open-Cv
 
 ### Excecution Steps
 #### Step 1 - Download models
@@ -14,9 +21,16 @@ colorization_release_v2.caffemodel [here](https://github.com/richzhang/colorizat
 
 pts_in_hull.npy [here](https://github.com/richzhang/colorization/blob/master/resources/pts_in_hull.npy)
 
-#### Step 2 - create model folder and Add all these models
+#### Step 2 - Create model folder and Add all these models
 
-#### Step 3 - run ```bw_to_color_gui.exe```
+#### Step 3 - Run ```bw_to_color_gui.py```
 
-#### For Source Code
-Mail me mayursatav9@gmail.com
+### Screenshots
+
+
+#### References
+[Richard Zhang](https://github.com/richzhang/colorization)
+
+#### For more details on the image colorization refer to the official publication of Zhang
+http://richzhang.github.io/colorization/
+
